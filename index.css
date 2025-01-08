@@ -1,0 +1,38 @@
+body {
+    background-color: bisque;
+}
+
+
+#back{
+    margin-top: -223px;
+    margin-left: 735px;
+    width: 425px;
+    height: 200px;
+    border-radius: 20px;
+    background-color: rgb(250, 198, 85);
+}
+
+
+#Button {
+    background-color: rgb(76, 145, 76);
+    border-radius: 10px;
+    font-size: large;
+    padding:20px;
+    width: 200px;
+    margin-top: 800px;
+    margin-left: 830px;
+  
+    
+}
+#Title{
+    margin-top: -150px;
+    margin-left: 700px; 
+    border: 2px solid;
+    width: 410px;
+    border-left-width: 50px;
+    border-color: rgb(80, 2, 9);
+    border-radius: 20px;
+    height: 200px;
+   
+
+}
