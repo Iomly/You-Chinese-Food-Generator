@@ -2,6 +2,7 @@
 
 Main Objective: to create a randomn chinese food generator based off background color
 
-  Example:
-  - click button
-  - random tradition chinese food with description
+Button:
+Click button and random traditional chinese food will pop up in middle of the screen. Along with it, the name of the dish.
+
+
