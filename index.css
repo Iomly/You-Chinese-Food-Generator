@@ -1,38 +1,99 @@
 body {
     background-color: bisque;
+ 
 }
 
 
 #back{
-    margin-top: -223px;
+    margin-top: -226px;
     margin-left: 735px;
     width: 425px;
-    height: 200px;
+    height: 201px;
     border-radius: 20px;
-    background-color: rgb(250, 198, 85);
+   background-color:rgb(253, 194, 67);  ;
 }
 
 
-#Button {
+#button {
     background-color: rgb(76, 145, 76);
-    border-radius: 10px;
-    font-size: large;
+    border-radius: 20px;
+    font-size: 30px;
     padding:20px;
     width: 200px;
     margin-top: 800px;
     margin-left: 830px;
+    font-family: monospace,sans-serif;
+    font-weight: bold;
+    border:none;
+    color:rgba(102, 207, 102, 0.938);
   
     
 }
 #Title{
     margin-top: -150px;
     margin-left: 700px; 
-    border: 2px solid;
+    border: 5px solid;
     width: 410px;
     border-left-width: 50px;
-    border-color: rgb(80, 2, 9);
+    border-color: rgb(148, 38, 38);
     border-radius: 20px;
     height: 200px;
+    font-family: monospace,sans-serif;
+    color:rgb(128, 40, 40);
+    font-weight: bolder;
    
+}
 
+#Heading{
+    font-family: monospace;
+    margin-top: -800px;
+    margin-left: 600px;
+    font-size: 50px;
+    font-weight: bold;
+    color:brown;
+    margin-right:300px;
+    overflow: hidden;
+
+    
+    
+}
+#headerfront{
+    width: 850px;
+    height: 120px;
+    margin-left: 550px;
+    margin-top: -120px;
+    border-radius: 20px;
+    background-color: brown;
+}
+#headerback{
+    width: 800px;
+    height: 100px;
+    margin-left: 570px;
+    margin-top: -110px;
+    border-radius: 20px;
+    background-color:  rgb(253, 194, 67); 
+    
+}
+
+#image{
+    margin-top: 70px;
+    margin-left: 750px;
+   padding-top: 350px;
+   background-position: center;
+   width:400px ;
+   background-size: cover;
+   border-radius: 50PX; 
+}
+/*width: 400px;
+   height:400px;
+*/
+
+p{
+    color:brown;
+    font-family: monospace,sans-serif;
+    font-size:50px;
+    margin-top: -300px;
+    margin-left: 400px;
+    font-weight: bolder;
+    margin-right: 2000px;
 }
