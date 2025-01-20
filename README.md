@@ -1,4 +1,4 @@
-# You-Chinese-Food-Generator
+# Your-Chinese-Food-Generator
 
 Main Objective: to create a randomn chinese food generator based off background color
 
